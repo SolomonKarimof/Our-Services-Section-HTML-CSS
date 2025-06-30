@@ -1,5 +1,5 @@
 Overview
-This "Our Services" section is a responsive, visually appealing component that showcases different services offered by a company. It features six service cards with icons, descriptions, and "Read More" links.
+This "Our Services" section is a responsive, visually appealing component that showcases different services offered by a company. It features six service cards with icons, descriptions, and "btn" links.
 
 Features
 Responsive Design: Adapts to different screen sizes (mobile, tablet, desktop)
